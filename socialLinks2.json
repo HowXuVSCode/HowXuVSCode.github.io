@@ -1,0 +1,11 @@
+[{
+    "name": "网易云",
+    "icon": "/images/icon/cloudmusic.png",
+    "tip": "音乐治愈人心",
+    "url": "https://music.163.com/#/user/home?id=1653714069"
+},{
+    "name": "CSDN",
+    "icon": "/images/icon/csdn.png",
+    "tip": "低级交互",
+    "url": "https://blog.csdn.net/m0_74075298"
+}]
